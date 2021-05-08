@@ -9,6 +9,7 @@
   text-align: center;
   font-size: 100px;
   color: antiquewhite;
+  margin-top: auto;
 }
 
 #Pradimg {
@@ -21,7 +22,6 @@
 }
 
 #linkedin {
-  color: rgb(0, 217, 255);
   text-align: center;
   text-decoration: none;
 }
@@ -35,7 +35,14 @@
 .info {
   color: aliceblue;
   text-align: left;
-  padding-left: 37%;
+  padding-left: 36.5%;
   font-size: large;
-  padding-bottom: 2%;
+}
+
+#linkedinlogo {
+  display: inline-block;
+}
+
+#email {
+  color: aquamarine;
 }
