@@ -1,0 +1,41 @@
+* {
+  background-color: black;
+}
+
+#temporary {
+  font-style: italic;
+  font-weight: bold;
+  font-family: Lucida Sans;
+  text-align: center;
+  font-size: 100px;
+  color: antiquewhite;
+}
+
+#Pradimg {
+  width: 25%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  color: antiquewhite;
+}
+
+#linkedin {
+  color: rgb(0, 217, 255);
+  text-align: center;
+  text-decoration: none;
+}
+
+.contact {
+  color: aliceblue;
+  text-align: center;
+  font-size: larger;
+}
+
+.info {
+  color: aliceblue;
+  text-align: left;
+  padding-left: 37%;
+  font-size: large;
+  padding-bottom: 2%;
+}
