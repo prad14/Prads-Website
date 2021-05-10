@@ -1,6 +1,6 @@
 # Prads-Website
 
-My personal website. Can be found at pradmandal.com
+My personal website. Can be found at www.pradmandal.com
 
 Still a work in progress!
 
